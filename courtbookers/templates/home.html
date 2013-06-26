@@ -1,0 +1,15 @@
+{% load staticfiles i18n %}<!doctype html>
+<html>
+<head>
+	<title>{% block title %}{% trans "Welcome" %}{% endblock %} &mdash; courtbookers</title>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="{% static "core/css/main.css" %}">
+	<link rel="shortcut icon" href="{% static "core/img/favicon.png" %}">
+	<meta name="apple-mobile-web-app-title" content="Court Bookers">
+
+</head>
+<body>
+{% trans "Welcome to Court Bookers!" %}
+</body>
+</html>

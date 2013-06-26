@@ -1,0 +1,16 @@
+$text-color: #333;
+$background-color: #EEE ;
+
+html, body {
+	font-family: OpenSansCondensedBold, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	//font-family: comic Sans MS, arial, courrier;;
+	color: $text-color;
+	background: $background-color;
+	height:100%;
+}
+
+h1 {
+	font-size: 1.5em;
+	line-height: 1.5em;
+	margin: 0.5rem 0;
+}
