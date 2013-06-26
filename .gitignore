@@ -1,0 +1,7 @@
+.idea
+env
+.sass-cache
+*.sqlite
+*.pyc
+htmlcov
+.coverage
