@@ -1,5 +1,7 @@
 # courtbookers
 
+[![Build Status](https://travis-ci.org/CourtBookers/courtbookers.png?branch=master)](https://travis-ci.org/CourtBookers/courtbookers)
+
 ## Developer Setup
 
 1. Use python 2.7.x
